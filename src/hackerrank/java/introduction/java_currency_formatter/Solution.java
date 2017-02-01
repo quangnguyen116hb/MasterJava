@@ -1,4 +1,4 @@
-package hackerrank.java.introduction.java_currency_formater;
+package hackerrank.java.introduction.java_currency_formatter;
 
 /**
  * Created by quang on 01/02/2017.
