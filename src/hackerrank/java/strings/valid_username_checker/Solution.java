@@ -31,7 +31,7 @@ public class Solution {
 
 /*
  String pattern = "^([A-Za-z]{1,1}[A-Za-z0-9_]{7,29})$";
- 
+
 ^ Beginning. Matches the beginning of the string, or the beginning of a line if the multiline flag (m) is enabled.
 ( Capturing group #1. Groups multiple tokens together and creates a capture group for extracting a substring or using a backreference.
 [ Character set. Match any character in the set.
